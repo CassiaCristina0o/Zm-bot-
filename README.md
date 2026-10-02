@@ -2,6 +2,8 @@
 
 Discord bot that replies to good morning and good night messages on the Zcash Brasil community server.
 
+![ZM Bot replying to a good night message](images/zm-bot.png)
+
 ## What it does
 
 - Replies to "good morning" and "good night" in several languages (Portuguese, English, Spanish, Italian and Korean), for example `gm`, `zm`, `bom dia`, `gn`, `zn`, `boa noite`.
