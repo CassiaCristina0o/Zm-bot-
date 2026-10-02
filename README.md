@@ -2,7 +2,7 @@
 
 Discord bot that replies to good morning and good night messages on the Zcash Brasil community server.
 
-![ZM Bot replying to a good night message](images/zm-bot.png)
+![ZM Bot replying to a good morning message](images/zm-bot.png)
 
 ## What it does
 
